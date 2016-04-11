@@ -1,0 +1,12 @@
+public class Vergleich {
+	public static void main (String[] args) {
+		int a = 1;
+		int b = 1;
+		if ( a = b ) {
+		System.out.println("Das Produkt entspricht den Filterbedingungen");
+	}
+		else {
+			System.out.println("Don´t touch it!");
+		}
+	}
+}
